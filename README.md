@@ -80,9 +80,46 @@
    - Conducted extensive functional verification and timing analysis to validate the functionality and performance of the FIFO memory controller.
    - Documented design specifications, test procedures, and verification results to facilitate design reviews and future maintenance efforts.
 4. **Contactless Tachometer using TIVA C Series Microcontroller. (Microprocessor System | C Language | Tiva Microcontroller)**
-5. **IoT based Smart Energy Metering of Electrical System. (Smart Grid | Embedded System | C Language)**
-6. **Speaker Recognition (Python | Machine Learning)**
-7. **IoT based Smart Plug/Socket (Computer Networks | NodeMCU Wifi Module)**
+   - Developed a Contactless Tachometer system using a TIVA C Series Microcontroller to measure the rotational speed of a target object without physical contact.
+   - Utilized embedded C language to program the microcontroller, leveraging its capabilities for real-time data processing and control.
+   - Implemented sensor interfacing techniques to capture signals from the rotating target object, such as using optical sensors or magnetic sensors.
+   - Designed signal processing algorithms to analyze the captured signals and calculate the rotational speed of the target object accurately.
+   - Integrated display functionalities to present the measured rotational speed to the user in a user-friendly format, such as on an LCD display or through serial communication.
+   - Implemented calibration and calibration routines to ensure accuracy and reliability of the tachometer measurements across different operating conditions.
+   - Conducted thorough testing and validation to verify the performance and accuracy of the contactless tachometer system under various scenarios and conditions.
+   - Collaborated with team members to optimize system efficiency, improve user experience, and address any technical challenges encountered during development.
+   - Documented the design process, including specifications, schematics, code documentation, and testing procedures, for future reference and knowledge transfer.
+6. **IoT based Smart Energy Metering of Electrical System. (Smart Grid | Embedded System | C Language)**
+   - Developed an IoT-based Smart Energy Metering system to monitor and manage electrical consumption within an electrical system, contributing to the advancement of Smart Grid technology.
+   - Implemented embedded systems using the C programming language to interface with sensors, microcontrollers, and communication modules.
+   - Designed the system to collect real-time energy consumption data from electrical meters or sensors installed at various points within the electrical grid.
+   - Utilized IoT protocols such as MQTT (Message Queuing Telemetry Transport) or HTTP (Hypertext Transfer Protocol) to transmit energy consumption data to a central server or cloud platform.
+   - Integrated sensors for measuring electrical parameters such as voltage, current, power, and energy consumption to provide comprehensive monitoring capabilities.
+   - Implemented algorithms for data analysis, anomaly detection, and energy usage forecasting to optimize energy consumption and identify potential efficiency improvements.
+   - Developed user interfaces for visualization and remote monitoring of energy consumption data through web-based dashboards or mobile applications.
+   - Conducted rigorous testing and validation to ensure the accuracy, reliability, and security of the Smart Energy Metering system under various operating conditions.
+   - Collaborated with multidisciplinary teams including hardware engineers, software developers, and data scientists to optimize system performance and functionality.
+   - Documented the design specifications, implementation details, testing procedures, and deployment strategies for future reference and knowledge sharing.
+8. **Speaker Recognition (Python | Machine Learning)**
+   - Developed a Speaker Recognition system using Python and Machine Learning techniques to identify and authenticate individuals based on their unique vocal characteristics.
+   - Utilized machine learning libraries such as scikit-learn and TensorFlow to preprocess audio data and extract relevant features from speech signals.
+   - Implemented supervised learning algorithms such as Support Vector Machines (SVM), Gaussian Mixture Models (GMM), or Convolutional Neural Networks (CNNs) to train models for speaker identification tasks.
+   - Designed feature extraction pipelines to capture distinctive spectral and temporal features from audio recordings, such as Mel-Frequency Cepstral Coefficients (MFCCs) or spectrograms.
+   - Employed techniques such as dimensionality reduction, normalization, and feature scaling to enhance model performance and reduce computational complexity.
+   - Conducted comprehensive model evaluation using metrics such as accuracy, precision, recall, and receiver operating characteristic (ROC) curves to assess the performance of the Speaker Recognition system.
+   - Integrated the trained models into a user-friendly application or API for real-time speaker authentication and verification tasks.
+   - Collaborated with domain experts and speech processing researchers to refine the system architecture and improve the accuracy and robustness of speaker recognition algorithms.
+   - Documented the implementation process, including data preprocessing steps, model selection criteria, and performance evaluation results, to facilitate reproducibility and knowledge sharing within the research community.
+10. **IoT based Smart Plug/Socket (Computer Networks | NodeMCU Wifi Module)**
+   - Developed an IoT-based Smart Plug/Socket system using Computer Networks principles and the NodeMCU WiFi module to enable remote control and monitoring of electrical devices.
+   - Implemented firmware for the NodeMCU WiFi module using Arduino IDE or Lua programming language to establish connectivity with local WiFi networks.
+   - Designed a user-friendly interface, such as a mobile application or web dashboard, to facilitate remote control and scheduling of connected electrical devices.
+   - Utilized MQTT (Message Queuing Telemetry Transport) protocol for efficient communication between the Smart Plug/Socket and the central server or cloud platform.
+   - Integrated sensors for monitoring electrical parameters such as voltage, current, power consumption, and energy usage to provide real-time feedback to users.
+   - Implemented security mechanisms such as encryption, authentication, and access control to protect against unauthorized access and ensure data privacy.
+   - Conducted thorough testing and validation to verify the reliability, stability, and interoperability of the Smart Plug/Socket system under various network conditions.
+   - Collaborated with hardware engineers, firmware developers, and UI/UX designers to optimize the system architecture, functionality, and user experience.
+   - Documented the design specifications, implementation details, testing procedures, and deployment strategies for future reference and knowledge transfer.
 
 
 <h3 align="left">Languages and Tools:</h3>
