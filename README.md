@@ -16,6 +16,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/atif-mughal-62a00027b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atif-mughal-62a00027b/" height="30" width="40" /></a>
 </p>
 
+##  About Me
+   Innovative thinker with a keen interest in emerging technologies. Dedicated and versatile professional with a pro-active approach to challenges. Committed to delivering results and collaborating effectively with colleagues.
 
 ## 🎓 Education
 
@@ -36,7 +38,6 @@
 - Verilog & System Verilog
 - Python
 - C/C++
-- JavaScript
 - RISCV Assembly/ISA
 - MATLAB
 - Linux
@@ -46,12 +47,14 @@
 - Tiva C Series Micro-controller
 - Graphic Designing
 - Social Media Marketing
-- MERN Stack Web Development
-- SEO
+- MERN Stack Web Development (React.js, Node.js, Express.js, MongoDB)
+- HTML, CSS, JavaScript, PHP, MySQL
+- Search Engine Optimization
 - Wordpress
 - MS OFFICE
 - Object Oriented Programming
 - Machine Learning and Deep Learning
+- Video Editing & Animation
 
 ## 🛠️ Projects
 
