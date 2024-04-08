@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **10xEngineers**
 
-- 🌱 I’m currently learning **UET Lahore**
+- 🌱 I’m currently learning at **UET Lahore**
 
 - 💬 Ask me about **Chip Designing, MERN Stack Development**
 
