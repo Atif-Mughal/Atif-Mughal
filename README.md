@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/atif-mughal-62a00027b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atif-mughal-62a00027b/" height="30" width="40" /></a>
 </p>
 
-## ![image](https://github.com/Atif-Mughal/Atif-Mughal/assets/129737905/15c8e15f-d427-41c9-9d46-dbb8adff6f1e) About Me
+##    About Me
    Innovative thinker with a keen interest in emerging technologies. Dedicated and versatile professional with a pro-active approach to challenges. Committed to delivering results and collaborating effectively with colleagues.
 
 ## 🎓 Education
