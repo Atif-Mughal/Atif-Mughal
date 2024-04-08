@@ -16,6 +16,15 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/atif-mughal-62a00027b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atif-mughal-62a00027b/" height="30" width="40" /></a>
 </p>
 
+
+## 🎓 Education
+
+- Matric (Science) from Read Foundation High School Chathian, Hattian Bala, AJK. (1019/1100) | (2015-2017)
+- FSc (Pre-Engineering) from Shaheen Model College, Muzaffarabad, AJK. (979/1100) | (2017-2019)
+- BE Electrical Engineering, University of Engineering and Technology, Lahore.  (3.3/4.0) | (2020-2024)
+- 3 Months Chip Designing Professional Program at Knowledge Stream, Sponsored by 10xEngineers.
+- 10 Weeks MERN Stack Development Training at KICS, UET Lahore.
+
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
