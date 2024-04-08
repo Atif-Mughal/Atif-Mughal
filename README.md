@@ -92,7 +92,7 @@
    - Conducted thorough testing and validation to verify the performance and accuracy of the contactless tachometer system under various scenarios and conditions.
    - Collaborated with team members to optimize system efficiency, improve user experience, and address any technical challenges encountered during development.
    - Documented the design process, including specifications, schematics, code documentation, and testing procedures, for future reference and knowledge transfer.
-6. **IoT based Smart Energy Metering of Electrical System. (Smart Grid | Embedded System | C Language)**
+5. **IoT based Smart Energy Metering of Electrical System. (Smart Grid | Embedded System | C Language)**
    - Developed an IoT-based Smart Energy Metering system to monitor and manage electrical consumption within an electrical system, contributing to the advancement of Smart Grid technology.
    - Implemented embedded systems using the C programming language to interface with sensors, microcontrollers, and communication modules.
    - Designed the system to collect real-time energy consumption data from electrical meters or sensors installed at various points within the electrical grid.
@@ -103,7 +103,7 @@
    - Conducted rigorous testing and validation to ensure the accuracy, reliability, and security of the Smart Energy Metering system under various operating conditions.
    - Collaborated with multidisciplinary teams including hardware engineers, software developers, and data scientists to optimize system performance and functionality.
    - Documented the design specifications, implementation details, testing procedures, and deployment strategies for future reference and knowledge sharing.
-8. **Speaker Recognition (Python | Machine Learning)**
+6. **Speaker Recognition (Python | Machine Learning)**
    - Developed a Speaker Recognition system using Python and Machine Learning techniques to identify and authenticate individuals based on their unique vocal characteristics.
    - Utilized machine learning libraries such as scikit-learn and TensorFlow to preprocess audio data and extract relevant features from speech signals.
    - Implemented supervised learning algorithms such as Support Vector Machines (SVM), Gaussian Mixture Models (GMM), or Convolutional Neural Networks (CNNs) to train models for speaker identification tasks.
@@ -113,7 +113,7 @@
    - Integrated the trained models into a user-friendly application or API for real-time speaker authentication and verification tasks.
    - Collaborated with domain experts and speech processing researchers to refine the system architecture and improve the accuracy and robustness of speaker recognition algorithms.
    - Documented the implementation process, including data preprocessing steps, model selection criteria, and performance evaluation results, to facilitate reproducibility and knowledge sharing within the research community.
-10. **IoT based Smart Plug/Socket (Computer Networks | NodeMCU Wifi Module)**
+7. **IoT based Smart Plug/Socket (Computer Networks | NodeMCU Wifi Module)**
    - Developed an IoT-based Smart Plug/Socket system using Computer Networks principles and the NodeMCU WiFi module to enable remote control and monitoring of electrical devices.
    - Implemented firmware for the NodeMCU WiFi module using Arduino IDE or Lua programming language to establish connectivity with local WiFi networks.
    - Designed a user-friendly interface, such as a mobile application or web dashboard, to facilitate remote control and scheduling of connected electrical devices.
