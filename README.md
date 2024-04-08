@@ -71,7 +71,7 @@
    - Ensured compatibility with various baud rates and data formats to support versatile communication requirements.
    - Conducted thorough verification including simulation and hardware testing to validate functionality and performance.
    - Documented design specifications, test plans, and verification results to facilitate future maintenance and modifications.
-3. **implementation of an Asynchronous FIFO Memory Controller for a Data Processing System (System Verilog | Chip Designing)**
+3. **Implementation of an Asynchronous FIFO Memory Controller for a Data Processing System (System Verilog | Chip Designing)**
    - Developed an Asynchronous FIFO (First-In-First-Out) Memory Controller using SystemVerilog to facilitate data communication between different components in a data processing system.
    - Designed the FIFO memory controller to efficiently manage asynchronous data transfers, ensuring reliable data synchronization and flow control.
    - Implemented features such as data buffering, read and write pointers, and status flags to handle data transfer operations effectively.
@@ -79,6 +79,10 @@
    - Designed robust error detection and correction mechanisms to ensure data integrity and reliability during transmission.
    - Conducted extensive functional verification and timing analysis to validate the functionality and performance of the FIFO memory controller.
    - Documented design specifications, test procedures, and verification results to facilitate design reviews and future maintenance efforts.
+4. **Contactless Tachometer using TIVA C Series Microcontroller. (Microprocessor System | C Language | Tiva Microcontroller)**
+5. **IoT based Smart Energy Metering of Electrical System. (Smart Grid | Embedded System | C Language)**
+6. **Speaker Recognition (Python | Machine Learning)**
+7. **IoT based Smart Plug/Socket (Computer Networks | NodeMCU Wifi Module)**
 
 
 <h3 align="left">Languages and Tools:</h3>
