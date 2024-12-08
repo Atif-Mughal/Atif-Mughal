@@ -58,7 +58,7 @@
 
 ## 🛠️ Projects
 
-1. **RISCV Single Cycle Processor (System Verilog | Computer Architecture | DSD)**
+1. **RISCV Processor (System Verilog | Computer Architecture | DSD)**
    - Developed a RISC-V single cycle processor using SystemVerilog, adhering to the RISC-V Instruction Set Architecture (ISA) specifications.
    - Implemented the complete processor datapath including instruction fetch, decode, execute, memory access, and write-back stages.
    - Designed and integrated essential components such as instruction memory, data memory, ALU (Arithmetic Logic Unit), and control unit.
