@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="atif-mughal" /> </p>
 
-- 🔭 I’m currently working in **NUST Chip Design Centre Islamabad**
+- 🔭 I’m currently working in **Aql Tech Solutions, Islamabad**
 
 - 🌱 I’ve been graduated from **UET Lahore**
 
